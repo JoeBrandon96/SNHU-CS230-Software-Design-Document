@@ -20,5 +20,3 @@ I had certainly missed an opportunity to talk about other benefits of traditiona
 How did you interpret the user’s needs and implement them into your software design? Why is it so important to consider the user’s needs when designing?
 
 It's important to address the user's needs, or else your own product will fail. If the user isn't satisfied with the usability and functionality of the product, then the product might as well not even exist at all, as it will cease to be used entirely.
-
-It'
